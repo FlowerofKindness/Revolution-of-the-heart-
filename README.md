@@ -155,7 +155,7 @@ Have questions, ideas, or feedback?
 
 - **GitHub Issues**: [Report bugs or suggest features](https://github.com/FlowerofKindness/Revolution-of-the-heart-/issues)
 - **GitHub Discussions**: [Join the community conversation](https://github.com/FlowerofKindness/Revolution-of-the-heart-/discussions) — Share blessings, ideas, and support
-- **Email**: *(Add your email here for direct contact)*
+- **Email**: katiebuuugg@proton.me
 
 See [DISCUSSIONS.md](DISCUSSIONS.md) for community guidelines and how to participate.
 
