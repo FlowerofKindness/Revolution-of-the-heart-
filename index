@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Revolution of the Heart</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #faf7f2;
+      color: #333;
+      padding: 40px;
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #6b4f3f;
+      font-size: 2.4rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+    }
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Revolution of the Heart</h1>
+  <p>Welcome to the first published version of your sanctuary site.  
+     This page is just a placeholder — a seed — until your full design blossoms.</p>
+
+  <p>As you build, you can replace this file with your real layout, components, or a full framework build.</p>
+
+  <div class="footer">© 2026 Revolution of the Heart</div>
+</body>
+</html>
