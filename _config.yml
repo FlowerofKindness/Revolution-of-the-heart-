@@ -1,0 +1,12 @@
+title: Revolution of the Heart
+description: A trauma‑informed, modular digital sanctuary blending curriculum, ritual, creative expression, and legacy work to support healing, presence, and personal return.
+theme: jekyll-theme-primer
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+future: false
